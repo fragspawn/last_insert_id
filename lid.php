@@ -11,6 +11,6 @@
  *
  */
 
-
+$sql = "SELECT * FROM user";
 
 ?>
