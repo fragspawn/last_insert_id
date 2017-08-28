@@ -12,5 +12,7 @@
  */
 
 $sql = "SELECT * FROM user";
+$conn = "foobar";
+
 
 ?>
